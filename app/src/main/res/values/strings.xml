@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Remi Бетка</string>
     <string name="search_title">Поиск</string>
+    
+    <string name="menu_item_notification">Напоминание</string>
+    <string name="view_navigation_open">Напоминание</string>
+    <string name="view_navigation_close">Напоминание</string>
 </resources>
